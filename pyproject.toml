@@ -1,11 +1,20 @@
 [project]
-name = "PACKAGE"
+name = "xlytics"
 description = "DESCRIPTION"
 readme = "README.md"
 dynamic = ["version"]
 requires-python = ">=3.10"
 
 dependencies = [
+    "aiohttp>=3.12.13",
+    "numpy>=2.2.6",
+    "opencv-python>=4.11.0.86",
+    "pillow>=11.3.0",
+    "python-dotenv>=1.1.1",
+    "python-twitter-v2>=0.9.2",
+    "supervision>=0.25.1",
+    "types-requests>=2.32.4.20250611",
+    "ultralytics>=8.3.163",
 ]
 
 [build-system]
@@ -67,10 +76,10 @@ warn_unused_configs = true
 ignore_missing_imports = true
 
 [tool.setuptools]
-packages = ["PACKAGE"]
+packages = ["xlytics"]
 
 [tool.setuptools_scm]
 # can be empty if no extra settings are needed, presence enables setuptools_scm
 
 [tool.setuptools.dynamic]
-version = {attr = "PACKAGE.version.__version__"}
+version = {attr = "xlytics.__version__"}
