@@ -1,0 +1,77 @@
+{
+  "tweet_id": "1944517074384253256",
+  "text": "I am crying man how is this a real image https://t.co/TVljAZsiiO",
+  "created_at": "2025-07-13T21:59:32.000Z",
+  "lang": "en",
+  "possibly_sensitive": false,
+  "reply_settings": "everyone",
+  "source": null,
+  "public_metrics": {
+    "retweet_count": 12091,
+    "quote_count": 1302,
+    "reply_count": 2277,
+    "like_count": 239796,
+    "impression_count": 16033336,
+    "bookmark_count": 10867
+  },
+  "entities": {
+    "urls": [
+      {
+        "start": 41,
+        "end": 64,
+        "url": "https://t.co/TVljAZsiiO",
+        "expanded_url": "https://x.com/StokeyyG2/status/1944517074384253256/photo/1",
+        "display_url": "pic.x.com/TVljAZsiiO",
+        "status": null,
+        "title": null,
+        "description": null,
+        "unwound_url": null
+      }
+    ]
+  },
+  "context_annotations": [],
+  "conversation_id": "1944517074384253256",
+  "author_id": "1303026765737218049",
+  "referenced_tweets": [],
+  "attachments": {
+    "media_keys": [
+      "3_1944517066238668800"
+    ],
+    "poll_ids": [],
+    "media_source_tweet_id": []
+  },
+  "media": [
+    {
+      "media_key": "3_1944517066238668800",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GvxP-CDXMAANFST.jpg",
+      "duration_ms": null,
+      "height": 764,
+      "width": 1179,
+      "alt_text": null,
+      "preview_image_url": null,
+      "public_metrics": {},
+      "variants": [],
+      "local_path": "/home/ahmedsalim/personal/xlytics/output/media/1944517074384253256/GvxP-CDXMAANFST.jpg",
+      "download_url": "https://pbs.twimg.com/media/GvxP-CDXMAANFST.jpg"
+    }
+  ],
+  "author": {
+    "id": "1303026765737218049",
+    "username": "StokeyyG2",
+    "verified": false,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1565722268738748416/4FWACDQs_normal.jpg",
+    "public_metrics": {
+      "followers_count": 475474,
+      "following_count": 4552,
+      "tweet_count": 64157,
+      "listed_count": 830
+    },
+    "description": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Business Email: stokeyemails@gmail.com | Powered by @PolymarketSport @rainbetcom",
+    "location": null,
+    "created_at": "2020-09-07T17:46:15.000Z",
+    "protected": false
+  },
+  "url": "https://x.com/StokeyyG2/status/1944517074384253256",
+  "tweet_url": "https://twitter.com/i/status/1944517074384253256"
+}

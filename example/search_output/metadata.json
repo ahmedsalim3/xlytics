@@ -1,0 +1,1064 @@
+[
+  {
+    "tweet_id": "1967193068928725282",
+    "text": "ZKC Claims are open! 🚀 Claim your allocation!\n\n1️⃣ More info: https://t.co/4RFbhXnhk2 \n2️⃣ Check eligibility on page listed ⚡️ \n\n 💫 Eligible users: ozlK5 @crypto_web13 @Anunobichrisben @oktrout",
+    "created_at": "2025-09-14T11:45:50.000Z",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "source": null,
+    "public_metrics": {
+      "retweet_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "impression_count": 0,
+      "bookmark_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 154,
+          "end": 167,
+          "username": "crypto_web13"
+        },
+        {
+          "start": 168,
+          "end": 184,
+          "username": "Anunobichrisben"
+        },
+        {
+          "start": 185,
+          "end": 193,
+          "username": "oktrout"
+        }
+      ],
+      "urls": [
+        {
+          "start": 62,
+          "end": 85,
+          "url": "https://t.co/4RFbhXnhk2",
+          "expanded_url": "https://x.com/boundless_xyz/status/1967181195562848618/likes/?5uIeJ?1IgL3bZ",
+          "display_url": "x.com/boundless_xyz/…",
+          "status": "200",
+          "title": "X",
+          "description": null,
+          "unwound_url": "https://x.com/i/flow/login"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "conversation_id": "1967193068928725282",
+    "author_id": "3204566786",
+    "referenced_tweets": [],
+    "attachments": {},
+    "media": [],
+    "author": {
+      "id": "3204566786",
+      "username": "Rajveer59744841",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/617632708001304577/TEYVhgqH_normal.jpg",
+      "public_metrics": {
+        "followers_count": 36,
+        "following_count": 176,
+        "tweet_count": 8,
+        "listed_count": 0
+      },
+      "description": "",
+      "location": null,
+      "created_at": "2015-05-17T12:44:50.000Z",
+      "protected": false
+    },
+    "tweet_url": "https://twitter.com/i/status/1967193068928725282"
+  },
+  {
+    "tweet_id": "1967193068924481782",
+    "text": "ZKC Claims are open! 🚀 Claim your allocation!\n\n1️⃣ More info: https://t.co/RpbFzpfUAD \n2️⃣ Check eligibility on page listed ⚡️ \n\n 💫 Eligible users: amfkk @airdroperindo @TheoBeams @crypto_leni",
+    "created_at": "2025-09-14T11:45:50.000Z",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "source": null,
+    "public_metrics": {
+      "retweet_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "impression_count": 0,
+      "bookmark_count": 0
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 2,
+          "probability": 0.4627,
+          "type": "Organization",
+          "normalized_text": "ZKC"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 154,
+          "end": 168,
+          "username": "airdroperindo"
+        },
+        {
+          "start": 169,
+          "end": 179,
+          "username": "TheoBeams"
+        },
+        {
+          "start": 180,
+          "end": 192,
+          "username": "crypto_leni"
+        }
+      ],
+      "urls": [
+        {
+          "start": 62,
+          "end": 85,
+          "url": "https://t.co/RpbFzpfUAD",
+          "expanded_url": "https://x.com/boundless_xyz/status/1967181195562848618/likes/?eAowzmM?8A",
+          "display_url": "x.com/boundless_xyz/…",
+          "status": "200",
+          "title": "X",
+          "description": null,
+          "unwound_url": "https://x.com/i/flow/login"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "conversation_id": "1967193068924481782",
+    "author_id": "3204566786",
+    "referenced_tweets": [],
+    "attachments": {},
+    "media": [],
+    "author": {
+      "id": "3204566786",
+      "username": "Rajveer59744841",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/617632708001304577/TEYVhgqH_normal.jpg",
+      "public_metrics": {
+        "followers_count": 36,
+        "following_count": 176,
+        "tweet_count": 8,
+        "listed_count": 0
+      },
+      "description": "",
+      "location": null,
+      "created_at": "2015-05-17T12:44:50.000Z",
+      "protected": false
+    },
+    "tweet_url": "https://twitter.com/i/status/1967193068924481782"
+  },
+  {
+    "tweet_id": "1967193067959590933",
+    "text": "@Fanele_Ase5 Crypto Tony ✪ @CryptoTony__\nTrader | Investor | Sharing market insights &amp; analysis | Follow for updates &amp; Mentorship!\n\n                DM ~👇↕️\n🔥Head to ( @CryptoTony__100 )\n🔥 Click on the Bio 📍PINNED POST to join my VIP Telegram group",
+    "created_at": "2025-09-14T11:45:50.000Z",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "source": null,
+    "public_metrics": {
+      "retweet_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "impression_count": 0,
+      "bookmark_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "Fanele_Ase5"
+        },
+        {
+          "start": 27,
+          "end": 40,
+          "username": "CryptoTony__"
+        },
+        {
+          "start": 175,
+          "end": 191,
+          "username": "CryptoTony__100"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      }
+    ],
+    "conversation_id": "1967158631151059086",
+    "author_id": "1299234204",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1967158984076619966"
+      }
+    ],
+    "attachments": {},
+    "media": [],
+    "author": {
+      "id": "1299234204",
+      "username": "CryptoTony__100",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1965038905813602304/oPR6q_8H_normal.jpg",
+      "public_metrics": {
+        "followers_count": 13,
+        "following_count": 0,
+        "tweet_count": 1096,
+        "listed_count": 0
+      },
+      "description": "Crypto.. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users",
+      "location": "Dubai",
+      "created_at": "2013-03-25T12:29:13.000Z",
+      "protected": false
+    },
+    "tweet_url": "https://twitter.com/i/status/1967193067959590933"
+  },
+  {
+    "tweet_id": "1967193067066384556",
+    "text": "RT @GoMining_token: Which crypto scam do you run into the most?",
+    "created_at": "2025-09-14T11:45:50.000Z",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "source": null,
+    "public_metrics": {
+      "retweet_count": 149,
+      "quote_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "impression_count": 0,
+      "bookmark_count": 0
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 26,
+          "end": 31,
+          "probability": 0.5556,
+          "type": "Other",
+          "normalized_text": "crypto"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "GoMining_token"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "conversation_id": "1967193067066384556",
+    "author_id": "1184504531259985920",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1966136532898894119"
+      }
+    ],
+    "attachments": {},
+    "media": [],
+    "author": {
+      "id": "1184504531259985920",
+      "username": "spread_infos",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1961516876992806912/1LNhNwvi_normal.jpg",
+      "public_metrics": {
+        "followers_count": 406,
+        "following_count": 650,
+        "tweet_count": 677,
+        "listed_count": 0
+      },
+      "description": "use my referal code 8S36GX7 on gomining to obtain 5% more TH",
+      "location": null,
+      "created_at": "2019-10-16T16:21:15.000Z",
+      "protected": false
+    },
+    "tweet_url": "https://twitter.com/i/status/1967193067066384556"
+  },
+  {
+    "tweet_id": "1967193066449817816",
+    "text": "@Emmanuel_Tips If na crypto bet. Try @trylimitless",
+    "created_at": "2025-09-14T11:45:50.000Z",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "source": null,
+    "public_metrics": {
+      "retweet_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "impression_count": 0,
+      "bookmark_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Emmanuel_Tips"
+        },
+        {
+          "start": 37,
+          "end": 50,
+          "username": "trylimitless"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "conversation_id": "1967190011780165907",
+    "author_id": "1672492630108696579",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1967190011780165907"
+      }
+    ],
+    "attachments": {},
+    "media": [],
+    "author": {
+      "id": "1672492630108696579",
+      "username": "mrzara_",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1905598876049948672/tAEAZHiL_normal.jpg",
+      "public_metrics": {
+        "followers_count": 9140,
+        "following_count": 3062,
+        "tweet_count": 60114,
+        "listed_count": 31
+      },
+      "description": "Simplify your project and Expand your Reach || Defi educator || Wallchain ref https://t.co/uq7wDdpECn",
+      "location": "Web3",
+      "created_at": "2023-06-24T06:31:48.000Z",
+      "protected": false
+    },
+    "tweet_url": "https://twitter.com/i/status/1967193066449817816"
+  },
+  {
+    "tweet_id": "1967193066382446984",
+    "text": "RT @naiivememe: My goal was to make $50K with Crypto this year \n\nMe in September with only $70K more to go:\nhttps://t.co/XZZPy9YKK7",
+    "created_at": "2025-09-14T11:45:50.000Z",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "source": null,
+    "public_metrics": {
+      "retweet_count": 6,
+      "quote_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "impression_count": 0,
+      "bookmark_count": 0
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 46,
+          "end": 51,
+          "probability": 0.935,
+          "type": "Other",
+          "normalized_text": "Crypto"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "naiivememe"
+        }
+      ],
+      "urls": [
+        {
+          "start": 108,
+          "end": 131,
+          "url": "https://t.co/XZZPy9YKK7",
+          "expanded_url": "https://x.com/okciaobye/status/1963680663447687192/video/1",
+          "display_url": "pic.x.com/XZZPy9YKK7",
+          "status": null,
+          "title": null,
+          "description": null,
+          "unwound_url": null
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967193066382446984",
+    "author_id": "195858977",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1967190550232330333"
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1963680620288069633"
+      ],
+      "poll_ids": [],
+      "media_source_tweet_id": []
+    },
+    "media": [
+      {
+        "media_key": "13_1963680620288069633",
+        "type": "video",
+        "url": null,
+        "duration_ms": 27119,
+        "height": 1080,
+        "width": 1080,
+        "alt_text": null,
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963680620288069633/img/OYc9zBEP7kz3-81x.jpg",
+        "public_metrics": {
+          "view_count": 53307
+        },
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963680620288069633/vid/avc1/720x720/OxtkVRvpHaPIE5c5.mp4?tag=16"
+          },
+          {
+            "bit_rate": null,
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963680620288069633/pl/1ti1r7wLMIVGOpA2.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963680620288069633/vid/avc1/1080x1080/UhBg3fBmidh7WEad.mp4?tag=16"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963680620288069633/vid/avc1/320x320/J39M0w6ScffbvdVx.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963680620288069633/vid/avc1/540x540/CEUebNxdvKFyqzLH.mp4?tag=16"
+          }
+        ],
+        "local_path": "/home/ahmedsalim/personal/xlytics/search_output/media/1967193066382446984/OxtkVRvpHaPIE5c5.mp4",
+        "download_url": "https://video.twimg.com/amplify_video/1963680620288069633/vid/avc1/720x720/OxtkVRvpHaPIE5c5.mp4?tag=16"
+      }
+    ],
+    "author": {
+      "id": "195858977",
+      "username": "03Rayyoun74",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1939994632684777472/kBMPXM6z_normal.jpg",
+      "public_metrics": {
+        "followers_count": 995,
+        "following_count": 668,
+        "tweet_count": 15955,
+        "listed_count": 4
+      },
+      "description": "",
+      "location": "Moon",
+      "created_at": "2010-09-27T19:04:41.000Z",
+      "protected": false
+    },
+    "tweet_url": "https://twitter.com/i/status/1967193066382446984"
+  },
+  {
+    "tweet_id": "1967193065443205328",
+    "text": "ZKC Claims are open! 🚀 Claim your allocation!\n\n1️⃣ More info: https://t.co/bq9cKsAM2Q \n2️⃣ Check eligibility on page listed ⚡️ \n\n 💫 Eligible users: azses @ngugaaaa @wsrzk18251194 @Swm_crypto",
+    "created_at": "2025-09-14T11:45:50.000Z",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "source": null,
+    "public_metrics": {
+      "retweet_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "impression_count": 0,
+      "bookmark_count": 0
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 2,
+          "probability": 0.4508,
+          "type": "Organization",
+          "normalized_text": "ZKC"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 154,
+          "end": 163,
+          "username": "ngugaaaa"
+        },
+        {
+          "start": 164,
+          "end": 178,
+          "username": "wsrzk18251194"
+        },
+        {
+          "start": 179,
+          "end": 190,
+          "username": "Swm_crypto"
+        }
+      ],
+      "urls": [
+        {
+          "start": 62,
+          "end": 85,
+          "url": "https://t.co/bq9cKsAM2Q",
+          "expanded_url": "https://x.com/boundless_xyz/status/1967181195562848618/likes/?U?exngjAsb0zx",
+          "display_url": "x.com/boundless_xyz/…",
+          "status": "200",
+          "title": "X",
+          "description": null,
+          "unwound_url": "https://x.com/i/flow/login"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "conversation_id": "1967193065443205328",
+    "author_id": "1165101640850059264",
+    "referenced_tweets": [],
+    "attachments": {},
+    "media": [],
+    "author": {
+      "id": "1165101640850059264",
+      "username": "matheuspeeira",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1165109071214759937/yy7VYKVg_normal.jpg",
+      "public_metrics": {
+        "followers_count": 32,
+        "following_count": 338,
+        "tweet_count": 18,
+        "listed_count": 0
+      },
+      "description": "",
+      "location": "Luziânia, Brasil",
+      "created_at": "2019-08-24T03:21:11.000Z",
+      "protected": false
+    },
+    "tweet_url": "https://twitter.com/i/status/1967193065443205328"
+  },
+  {
+    "tweet_id": "1967193065308967349",
+    "text": "The crypto space is buzzing with excitement, but not all tokens can deliver real value. Superhuman @Superhuman_DNA is redefining the game with $ONE, the token that can be minted for free. Forget the hype and focus on the future of #crypto.",
+    "created_at": "2025-09-14T11:45:50.000Z",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "source": null,
+    "public_metrics": {
+      "retweet_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "impression_count": 0,
+      "bookmark_count": 0
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 232,
+          "end": 237,
+          "probability": 0.856,
+          "type": "Other",
+          "normalized_text": "crypto"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 143,
+          "end": 147,
+          "tag": "ONE"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 231,
+          "end": 238,
+          "tag": "crypto"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 99,
+          "end": 114,
+          "username": "Superhuman_DNA"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1967193065308967349",
+    "author_id": "1940504682998439936",
+    "referenced_tweets": [],
+    "attachments": {},
+    "media": [],
+    "author": {
+      "id": "1940504682998439936",
+      "username": "wscomedian",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1951767654387142656/udNwZqJK_normal.jpg",
+      "public_metrics": {
+        "followers_count": 29,
+        "following_count": 84,
+        "tweet_count": 485,
+        "listed_count": 0
+      },
+      "description": "I follow the Superhuman ideology @Superhuman_DNA | Mint FREE $ONE tokens at https://t.co/6HX4KXJUxM | Trade it on @Uniswap",
+      "location": null,
+      "created_at": "2025-07-02T20:16:52.000Z",
+      "protected": false
+    },
+    "tweet_url": "https://twitter.com/i/status/1967193065308967349"
+  },
+  {
+    "tweet_id": "1967193063727730909",
+    "text": "2021 was a big year for crypto, the market and myself.\n\nBinance Futures\n$GALA/ $USDT Take-Profit target 2 ✅\nProfit: 133.6478% 📈\nPeriod: 1 Hours 39 Minutes ⏰ https://t.co/rCuUXHqBMg",
+    "created_at": "2025-09-14T11:45:49.000Z",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "source": null,
+    "public_metrics": {
+      "retweet_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "impression_count": 0,
+      "bookmark_count": 0
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 56,
+          "end": 62,
+          "probability": 0.6055,
+          "type": "Other",
+          "normalized_text": "Binance"
+        },
+        {
+          "start": 73,
+          "end": 76,
+          "probability": 0.5873,
+          "type": "Organization",
+          "normalized_text": "GALA"
+        },
+        {
+          "start": 80,
+          "end": 83,
+          "probability": 0.7296,
+          "type": "Other",
+          "normalized_text": "USDT"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 72,
+          "end": 77,
+          "tag": "GALA"
+        },
+        {
+          "start": 79,
+          "end": 84,
+          "tag": "USDT"
+        }
+      ],
+      "urls": [
+        {
+          "start": 157,
+          "end": 180,
+          "url": "https://t.co/rCuUXHqBMg",
+          "expanded_url": "https://x.com/Cryptoprime00/status/1967193063727730909/photo/1",
+          "display_url": "pic.x.com/rCuUXHqBMg",
+          "status": null,
+          "title": null,
+          "description": null,
+          "unwound_url": null
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1372588659346612225",
+          "name": "Binance"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1302997585569824768",
+          "name": "$USDT"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1390680741206368263",
+          "name": "Cryptocurrency exchanges"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "id": "166",
+          "name": "Stocks",
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ"
+        },
+        "entity": {
+          "id": "1302997585569824768",
+          "name": "$USDT"
+        }
+      }
+    ],
+    "conversation_id": "1967193063727730909",
+    "author_id": "1554142464184909824",
+    "referenced_tweets": [],
+    "attachments": {
+      "media_keys": [
+        "3_1967193055993135104"
+      ],
+      "poll_ids": [],
+      "media_source_tweet_id": []
+    },
+    "media": [
+      {
+        "media_key": "3_1967193055993135104",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zfqWsWAAAecK0.jpg",
+        "duration_ms": null,
+        "height": 1280,
+        "width": 782,
+        "alt_text": null,
+        "preview_image_url": null,
+        "public_metrics": {},
+        "variants": [],
+        "local_path": "/home/ahmedsalim/personal/xlytics/search_output/media/1967193063727730909/G0zfqWsWAAAecK0.jpg",
+        "download_url": "https://pbs.twimg.com/media/G0zfqWsWAAAecK0.jpg"
+      }
+    ],
+    "author": {
+      "id": "1554142464184909824",
+      "username": "Cryptoprime00",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1888068896986378240/KUa8A69v_normal.jpg",
+      "public_metrics": {
+        "followers_count": 2367,
+        "following_count": 0,
+        "tweet_count": 780078,
+        "listed_count": 12
+      },
+      "description": "These are result of our telegram channel\nCrypto currency signal\nCrypto investor\nA learner helping fellas earn some bucks!!!\npremium chennel is 40$ only",
+      "location": null,
+      "created_at": "2022-08-01T16:30:32.000Z",
+      "protected": false
+    },
+    "tweet_url": "https://twitter.com/i/status/1967193063727730909"
+  },
+  {
+    "tweet_id": "1967193060586225790",
+    "text": "ZKC Claims are open! 🚀 Claim your allocation!\n\n1️⃣ More info: https://t.co/bzx0c2MBTb \n2️⃣ Check eligibility on page listed ⚡️ \n\n 💫 Eligible users: Syyx4 @pd27661998sakib @crypto_Jay001 @not_blanck",
+    "created_at": "2025-09-14T11:45:48.000Z",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "source": null,
+    "public_metrics": {
+      "retweet_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "impression_count": 0,
+      "bookmark_count": 0
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 2,
+          "probability": 0.5146,
+          "type": "Other",
+          "normalized_text": "ZKC"
+        },
+        {
+          "start": 148,
+          "end": 152,
+          "probability": 0.607,
+          "type": "Other",
+          "normalized_text": "Syyx4"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 154,
+          "end": 170,
+          "username": "pd27661998sakib"
+        },
+        {
+          "start": 171,
+          "end": 185,
+          "username": "crypto_Jay001"
+        },
+        {
+          "start": 186,
+          "end": 197,
+          "username": "not_blanck"
+        }
+      ],
+      "urls": [
+        {
+          "start": 62,
+          "end": 85,
+          "url": "https://t.co/bzx0c2MBTb",
+          "expanded_url": "https://x.com/boundless_xyz/status/1967181195562848618/likes/?h2jeDkGj?XP4",
+          "display_url": "x.com/boundless_xyz/…",
+          "status": null,
+          "title": null,
+          "description": null,
+          "unwound_url": null
+        }
+      ]
+    },
+    "context_annotations": [],
+    "conversation_id": "1967193060586225790",
+    "author_id": "1250880533095165953",
+    "referenced_tweets": [],
+    "attachments": {},
+    "media": [],
+    "author": {
+      "id": "1250880533095165953",
+      "username": "v5XybA4HCBtUWFR",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1269186186200911876/ishZXtWA_normal.jpg",
+      "public_metrics": {
+        "followers_count": 21,
+        "following_count": 121,
+        "tweet_count": 16,
+        "listed_count": 0
+      },
+      "description": "‏‏‎‎#قاتلہ ٹول بدن مے اوسیزہ خو زڑہ مے ‎‎#پریگدا .\n\n‎‎#دا مے جانان تہ وربخلے بے وعدے بہ ‎‎#شمہ .\n   \n    ❤ نامعلوم ❤",
+      "location": "Islamabad, Pakistan",
+      "created_at": "2020-04-16T20:15:56.000Z",
+      "protected": false
+    },
+    "tweet_url": "https://twitter.com/i/status/1967193060586225790"
+  }
+]
